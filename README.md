@@ -3,7 +3,7 @@ CrimeWatch
 
 Crime reporting and vizualisation project for Malaysia
 
-(images/zacharevic-jb-mural.jpg "Ernest Zacharevic Crime Mural JB")
+![Crime Mural JB](images/zacharevic-jb-mural.jpg "Ernest Zacharevic Crime Mural JB")
 
 Overall Goals
 =============
