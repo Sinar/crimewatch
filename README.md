@@ -36,5 +36,61 @@ Use cases
  - Journalists - Additional information for stories
  - Researchers - Be able to get access to raw data for detailed analysis
 
+Existing implementations and reports for reference
+==================================================
+
+Systems:
+
+So far almost all systems worldwide rely on open data, which is one of
+the problems identified here in Malaysia.
+
+ - Crimereports https://www.crimereports.com (propietary, relies on open
+   data)
+ - Tyler Sirens http://www.joeycoleman.ca/2012/03/14/tyler-sirens-a-real-time-open-source-crime-map-coming-to-hamilton
+ - crimespotting http://oakland.crimespotting.org 
+   Also uses public data, but the UI has interesting time based info,
+   such as light, dark, nightlife, commute and swing shift.
+
+Data:
+
+- FBI Uniform Crime Reports http://www.fbi.gov/about-us/cjis/ucr/ucr
+- Street level crime  http://data.gov.uk/dataset/england-national-crime-mapping
+
+
+Technical Design
+================
+
+Milestone 1 - Capture requirements as best as possible
+
+The initial milestone for this project is design a good set of fields an
+and forms storing reports that can be used to effectively solve key uses
+cases.
+
+Some examples of fields it would have:
+
+ - Fields from Repot Polis (official Police report)
+ - Detailed geolocation if possible
+
+Milestone 2 - Initial Test Demo
+
+ - Initial backend system for form storage, API and web based client.
+ - Basic visulizations of reports on maps and some example statistics
+ - Ease of use should be a focus from early stage
+ - TODO
+
+Milestone 3 - Public pilot
+
+ - Web client with mobile support
+ - Mobile/Tablet app (Android or IOS depending on dev availability)
+ - TODO
+
+Issues
+======
+
+ - Privacy TODO
+ - Security TODO
+ - Moderation - filtering good from wrong/bad reports for an open system
+   TODO
+
 
 [1]: http://www.nytimes.com/2013/10/20/world/asia/soaring-crime-rate-takes-a-growing-malaysia-by-surprise.html
