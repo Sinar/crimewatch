@@ -44,6 +44,8 @@ Systems:
 So far almost all systems worldwide rely on open data, which is one of
 the problems identified here in Malaysia.
 
+ - Hatari, Kenya http://www.hatari.co.ke/ (Ushaidi)
+   Limited reports, reports do not look helpful. 
  - Crimereports https://www.crimereports.com (propietary, relies on open
    data)
  - Tyler Sirens http://www.joeycoleman.ca/2012/03/14/tyler-sirens-a-real-time-open-source-crime-map-coming-to-hamilton
