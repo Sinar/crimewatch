@@ -91,8 +91,27 @@ Issues
 
  - Privacy TODO
  - Security TODO
- - Moderation - filtering good from wrong/bad reports for an open system
-   TODO
+
+Verification Accuracy
+----------------------
+
+The key problem with crowdsourcing information is accuracy. We need steps to ensure accuracy
+while keeping the system transparent and easy to contribute to. 
+
+Possible solutions (can be combinations)
+
+ - Police report reference field
+   - Only police can verify
+ - Ability to scan and upload police reports as attachments
+   - con - can be faked (the police report format has no security markers like holograms or cash notes)
+ - Point system attaches weight on additional conditions to help verification
+   - examples include pictures, press reports, etc.
+ - Ratings of users by other users
+ - Rating of user due to additional verification process eg. scanned IC, credit card, job (Police) etc.
+ - Mark as Abuse/Spam reports
+
+Each of these have problems, we have to deal with spammers, or cybertroopers etc. 
+
 
 
 [1]: http://www.nytimes.com/2013/10/20/world/asia/soaring-crime-rate-takes-a-growing-malaysia-by-surprise.html
