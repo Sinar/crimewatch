@@ -26,8 +26,8 @@ Use cases
 =========
 
  - Public - To share crime affecting them, to warn others and to help in sharing information for investigations
- - Public - Would like to know where, crime is happening as it happens.
- - Public - Would like to know what kind of crimes are happening in specific areas.
+ - Public - Would like to know where crime is happening as it happens.
+ - Public - Would like to know what kind of crimes are happening in specific areas and at what times
  - Public - Neighourhood watche would like to know what sort of crimes they have to look out for
  - Police - Detectives would want to search for information and patterns to solve caes
  - Police - Will be able to see heatmaps of problematic areas to assign more resources
