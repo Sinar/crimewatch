@@ -45,13 +45,13 @@ So far almost all systems worldwide rely on open data, which is one of
 the problems identified here in Malaysia.
 
  - Hatari, Kenya http://www.hatari.co.ke/ (Ushaidi)
-   Limited reports, reports do not look helpful. 
- - Crimereports https://www.crimereports.com (propietary, relies on open
+   Limited reports, reports do not look helpful. Example of problem with crowd source data.
+ - Crimereports https://www.crimereports.com (propietary, relies on official police open
    data)
  - Tyler Sirens http://www.joeycoleman.ca/2012/03/14/tyler-sirens-a-real-time-open-source-crime-map-coming-to-hamilton
  - crimespotting http://oakland.crimespotting.org 
-   Also uses public data, but the UI has interesting time based info,
-   such as light, dark, nightlife, commute and swing shift.
+   Also uses official police public data, but the UI has interesting time based info,
+   such as light, dark, nightlife, commute and swing shift which should be emulated.
 
 Data:
 
@@ -72,25 +72,41 @@ Some examples of fields it would have:
 
  - Fields from Repot Polis (official Police report)
  - Detailed geolocation if possible
+   - Sinar Project has a mapit server to map locations to Malaysian political boundaries.
+   - Google does not at this time have limits for non-profit usage
+ - For public update/info follow up reports and workflow see leading systems above.
 
 Milestone 2 - Initial Test Demo
 
  - Initial backend system for form storage, API and web based client.
  - Basic visulizations of reports on maps and some example statistics
- - Ease of use should be a focus from early stage
+ - Ease of use for developers should be a focus, the demo client should be well documented.
+   - Other developers are more likely able to create better end user applications, while this
+     project focuses on providing API and data for them to build on. (Think Google Maps API, but for crime data)
  - TODO
 
 Milestone 3 - Public pilot
 
  - Web client with mobile support
  - Mobile/Tablet app (Android or IOS depending on dev availability)
+ - Better improvements to key visualizations that are most useful for key use cases.
  - TODO
 
 Issues
 ======
 
- - Privacy TODO
- - Security TODO
+Privacy and Security
+--------------------
+
+Checking what sort of data is release by US/UK to be able to generate Crimereports etc. could be used as
+reference for best practice of minimal needed for good reports.
+
+ - Police reports have names and addresses. This poses a privacy (and security risk) to reporters. 
+   - Keeping this data may help some, but cause problems.
+   - Probably best to keep police report numbers other id without private data, and let police
+     systems if any interact with it to complete the picture. 
+ - False info may cause wrong people to get in trouble. Since this is public, it could result in vigilante issues.
+ - TODO
 
 Verification Accuracy
 ----------------------
