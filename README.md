@@ -44,6 +44,9 @@ Systems:
 So far almost all systems worldwide rely on open data, which is one of
 the problems identified here in Malaysia.
 
+ - SJA1ert http://www.sjalert.com.my has co-ordination with police who share reports, and co-operation
+   with citizens and local representatives. Looks somewhat inactive, but updated. Email sent for co-operation (Khairil)
+
  - Hatari, Kenya http://www.hatari.co.ke/ (Ushaidi)
    Limited reports, reports do not look helpful. Example of problem with crowd source data.
  - Crimereports https://www.crimereports.com (propietary, relies on official police open
