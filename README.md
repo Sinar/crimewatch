@@ -61,6 +61,17 @@ Data:
 - FBI Uniform Crime Reports http://www.fbi.gov/about-us/cjis/ucr/ucr
 - Street level crime  http://data.gov.uk/dataset/england-national-crime-mapping
 
+Potential Partners
+==================
+
+Crowdsource initiatives such as this require a strong support community. Ideally police should
+be engaged from the start as well. 
+
+
+ - Malaysian Crime Awareness https://www.facebook.com/Malcrime
+ - SJA1ert http://www.sjalert.com.my
+ - MyWatch Malaysian Crime Watch http://www.malaysiancrimewatch.com
+
 
 Technical Design
 ================
@@ -109,7 +120,8 @@ reference for best practice of minimal needed for good reports.
    - Probably best to keep police report numbers other id without private data, and let police
      systems if any interact with it to complete the picture. 
  - False info may cause wrong people to get in trouble. Since this is public, it could result in vigilante issues.
- - TODO
+ - TODO- 
+ 
 
 Verification Accuracy
 ----------------------
