@@ -131,6 +131,20 @@ Possible solutions (can be combinations)
 
 Each of these have problems, we have to deal with spammers, or cybertroopers etc. 
 
+Contributing
+============
+
+Non-technical:
+
+ - Email khairil.yusof@sinarproject.org to share ideas & criticisms
+
+Technical:
+
+ - Create a Github account fork and do pull requests, we will merge and provide contributor access if
+   you want to join this effort long term.
+
+
+
 Credits
 =======
 
